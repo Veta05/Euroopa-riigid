@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Euroopa riigid", "Euroopa riigid\Euroopa riigid.pyproj", "{AC0FEECD-FCD9-42F8-AAC0-A2EB3DDC64D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0FEECD-FCD9-42F8-AAC0-A2EB3DDC64D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0FEECD-FCD9-42F8-AAC0-A2EB3DDC64D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C8BBD8-D763-4D69-B6C6-9D9C5AD1E15B}
+	EndGlobalSection
+EndGlobal
